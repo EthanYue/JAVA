@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!-- use default method to create object -->
+<!--    <bean id="accountService" class="com.netease.service.impl.AccountServiceImpl"></bean>-->
+
+<!-- use method of factory to create object -->
+<!--    <bean id="instanceFactory" class="com.netease.factory.InstanceFactory"></bean>-->
+<!--    <bean id="accountService" factory-bean="instanceFactory" factory-method="getAccountService"></bean>-->
+
+<!-- use static method of Class to create object -->
+<!--    <bean id="accountService" class="com.netease.factory.StaticFactory" factory-method="getAccountService"></bean>-->
+
+<!-- bean range: scope {singleton, prototype, request, session, global-session}-->
+<!--    <bean id="accountService" class="com.netease.service.impl.AccountServiceImpl" scope="prototype"></bean>-->
+
+<!-- dependency injection-->
+<!-- constructor method injection -->
+<!--    <bean id="accountService" class="com.netease.service.impl.AccountServiceImpl">-->
+<!--        <constructor-arg name="name" value="test" ></constructor-arg>-->
+<!--        <constructor-arg name="age" value="18"></constructor-arg>-->
+<!--        <constructor-arg name="birthday" ref="now"></constructor-arg>-->
+<!--    </bean>-->
+
+
+    <bean id="now" class="java.util.Date"></bean>
+
+
+<!-- set method injection -->
+<!--    <bean id="accountService" class="com.netease.service.impl.AccountServiceImpl2">-->
+<!--        <property name="name" value="yuefeiyu"></property>-->
+<!--        <property name="age" value="18"></property>-->
+<!--        <property name="birthday" ref="now"></property>-->
+<!--    </bean>-->
+
+
+<!-- complicated type injection -->
+    <bean id="accountService" class="com.netease.service.impl.AccountServiceImpl3">
+        <property name="myStrs">
+            <array>
+                <value>AAA</value>
+                <value>BBB</value>
+                <value>CCC</value>
+            </array>
+        </property>
+        <property name="myList">
+            <list>
+                <value>AAA</value>
+                <value>BBB</value>
+                <value>CCC</value>
+            </list>
+        </property>
+        <property name="mySet">
+            <set>
+                <value>AAA</value>
+                <value>BBB</value>
+                <value>CCC</value>
+            </set>
+        </property>
+        <property name="myMap">
+            <map>
+                <entry key="testA" value="AAA"></entry>
+                <entry key="testB">
+                    <value>BBB</value>
+                </entry>
+            </map>
+        </property>
+        <property name="myProps">
+            <props>
+                <prop key="testA">AAA</prop>
+                <prop key="testB">BBB</prop>
+            </props>
+        </property>
+    </bean>
+
+
+</beans>

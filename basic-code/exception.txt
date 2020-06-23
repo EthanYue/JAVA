@@ -1,0 +1,4 @@
+divthrows a exception
+exception name: ArithmeticException
+exception cause: / by zero
+exception count: 1
