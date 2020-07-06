@@ -1,0 +1,8 @@
+com\netease\service\impl\ProductServiceImpl.class
+com\netease\service\IMemberService.class
+com\netease\service\IOrderService.class
+com\netease\service\IProductService.class
+com\netease\service\IUserService.class
+com\netease\service\impl\MemberServiceImpl.class
+com\netease\service\impl\OrderServiceImpl.class
+com\netease\service\impl\UserServiceImpl.class

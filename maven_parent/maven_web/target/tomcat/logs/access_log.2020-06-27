@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [27/Jun/2020:21:39:39 +0800] "GET /maven_web HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [27/Jun/2020:21:39:40 +0800] "GET /maven_web/ HTTP/1.1" 200 52 http-bio-8080-exec-2 572
+0:0:0:0:0:0:0:1 - - [27/Jun/2020:21:39:50 +0800] "GET /maven_web/items/findById HTTP/1.1" 200 623 http-bio-8080-exec-3 2265
+0:0:0:0:0:0:0:1 - - [27/Jun/2020:21:44:24 +0800] "GET /maven_web/items/findById HTTP/1.1" 200 623 http-bio-8080-exec-1 1940
+0:0:0:0:0:0:0:1 - - [27/Jun/2020:21:44:31 +0800] "GET /maven_web/ HTTP/1.1" 200 52 http-bio-8080-exec-2 7

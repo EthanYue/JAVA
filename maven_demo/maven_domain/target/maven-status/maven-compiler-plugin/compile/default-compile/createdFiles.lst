@@ -1,0 +1,7 @@
+com\netease\domain\Order.class
+com\netease\domain\Product.class
+com\netease\domain\Role.class
+com\netease\domain\User.class
+com\netease\domain\Member.class
+com\netease\domain\Permission.class
+com\netease\domain\Traveller.class

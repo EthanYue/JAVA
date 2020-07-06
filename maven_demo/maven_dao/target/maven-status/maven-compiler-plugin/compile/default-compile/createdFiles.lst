@@ -1,0 +1,6 @@
+com\netease\dao\IMemberDao.class
+com\netease\dao\IRoleDao.class
+com\netease\dao\ITravellerDao.class
+com\netease\dao\IOrderDao.class
+com\netease\dao\IUserDao.class
+com\netease\dao\IProductDao.class

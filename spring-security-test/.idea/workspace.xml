@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46877bff-442d-47dc-86d4-cd9d319c06a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-repository" />
+        <option name="userSettingsFile" value="D:\apache-maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e3tV1jdRoZ7PeFgZCXzE0CViwa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46877bff-442d-47dc-86d4-cd9d319c06a0" name="Default Changelist" comment="" />
+      <created>1593562123055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593562123055</updated>
+      <workItem from="1593562126359" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1875" height="292" key="GridCell.Tab.0.bottom" timestamp="1593562247615">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="292" key="GridCell.Tab.0.bottom/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593562247615" />
+    <state width="1875" height="292" key="GridCell.Tab.0.center" timestamp="1593562247614">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="292" key="GridCell.Tab.0.center/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593562247614" />
+    <state width="1875" height="292" key="GridCell.Tab.0.left" timestamp="1593562247614">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="292" key="GridCell.Tab.0.left/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593562247614" />
+    <state width="1875" height="292" key="GridCell.Tab.0.right" timestamp="1593562247615">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="292" key="GridCell.Tab.0.right/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593562247615" />
+  </component>
+</project>

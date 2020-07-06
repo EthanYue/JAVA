@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:40:37 +0800] "GET /maven_web HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:42:45 +0800] "GET /maven_web HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:42:45 +0800] "GET /maven_web/ HTTP/1.1" 302 - http-bio-8080-exec-2 78
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:42:46 +0800] "GET /maven_web/login.jsp HTTP/1.1" 200 2594 http-bio-8080-exec-3 906
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:42:46 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:43:04 +0800] "POST /maven_web/login HTTP/1.1" 302 - http-bio-8080-exec-5 2789
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:43:04 +0800] "GET /maven_web/failure.jsp HTTP/1.1" 200 12344 http-bio-8080-exec-6 255
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:43:09 +0800] "GET /maven_web/login.jsp HTTP/1.1" 200 2594 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:43:16 +0800] "POST /maven_web/login HTTP/1.1" 500 4199 http-bio-8080-exec-8 294
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:44:01 +0800] "POST /maven_web/login HTTP/1.1" 302 - http-bio-8080-exec-1 256
+0:0:0:0:0:0:0:1 - - [01/Jul/2020:08:44:01 +0800] "GET /maven_web/failure.jsp HTTP/1.1" 200 12344 http-bio-8080-exec-2 84

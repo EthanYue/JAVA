@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4936015-48ec-46a0-bb7d-7b736ec1fb85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eDEo3tEMGOVbK5wxsfbsBUOoOY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/secKillDao/src/main/java/com/netease/dto" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.netease.service.impl" />
+      <recent name="com.netease.dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.netease" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\SecKill\secKillDao\src\main\java\com\netease\dto" />
+      <recent name="D:\IdeaProjects\SecKill\secKillDao\src\main\resources\mapper" />
+      <recent name="D:\IdeaProjects\SecKill\secKillWeb\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\SecKill\secKillDao\src\main\resources\spring" />
+      <recent name="D:\IdeaProjects\SecKill\secKillWeb\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SeckillServiceTest.testGetSeckillList">
+    <configuration name="ISuccessKillDaoTest.testInsertSuccessKilled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secKillDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netease.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netease.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.netease.dao.ISuccessKillDaoTest" />
+      <option name="METHOD_NAME" value="testInsertSuccessKilled" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ISuccessKillDaoTest.testQueryByIdWithSeckill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secKillDao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netease.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netease.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.netease.dao.ISuccessKillDaoTest" />
+      <option name="METHOD_NAME" value="testQueryByIdWithSeckill" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillServiceImplTest.testExportSeckillUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secKillService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netease.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netease.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.netease.service.impl.SeckillServiceImplTest" />
+      <option name="METHOD_NAME" value="testExportSeckillUrl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillServiceImplTest.testGetSeckillList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secKillService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netease.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netease.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.netease.service.impl.SeckillServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetSeckillList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillServiceTest.testGetSeckillList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="secKillService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netease.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.netease.service" />
+      <option name="MAIN_CLASS_NAME" value="com.netease.service.SeckillServiceTest" />
+      <option name="METHOD_NAME" value="testGetSeckillList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SeckillServiceTest.testGetSeckillList" />
+        <item itemvalue="JUnit.ISuccessKillDaoTest.testInsertSuccessKilled" />
+        <item itemvalue="JUnit.SeckillServiceImplTest.testGetSeckillList" />
+        <item itemvalue="JUnit.SeckillServiceImplTest.testExportSeckillUrl" />
+        <item itemvalue="JUnit.ISuccessKillDaoTest.testQueryByIdWithSeckill" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4936015-48ec-46a0-bb7d-7b736ec1fb85" name="Default Changelist" comment="" />
+      <created>1593847934677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593847934677</updated>
+      <workItem from="1593847937566" duration="19083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="-699" key="#SQL_Dialects" timestamp="1593850597437">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="337" y="-699" key="#SQL_Dialects/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593850597437" />
+    <state x="552" y="-882" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593850539130">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="552" y="-882" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593850539130" />
+    <state x="765" y="-856" key="#com.intellij.ide.util.MemberChooser" timestamp="1593939698180">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="765" y="-856" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593939698180" />
+    <state x="731" y="-634" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1593849269091">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="731" y="-634" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593849269091" />
+    <state x="749" y="-634" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1593848338947">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="749" y="-634" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593848338947" />
+    <state x="609" y="-617" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593993326310">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="609" y="-617" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593993326310" />
+    <state x="739" y="-660" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593993327398">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="739" y="-660" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593993327398" />
+    <state x="637" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593916283368">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="637" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593916283368" />
+    <state x="695" y="-787" key="FileChooserDialogImpl" timestamp="1593849624693">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="695" y="-787" key="FileChooserDialogImpl/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593849624693" />
+    <state width="1875" height="403" key="GridCell.Tab.0.bottom" timestamp="1593994422547">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="403" key="GridCell.Tab.0.bottom/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593994422547" />
+    <state width="1875" height="403" key="GridCell.Tab.0.center" timestamp="1593994422547">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="403" key="GridCell.Tab.0.center/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593994422547" />
+    <state width="1875" height="403" key="GridCell.Tab.0.left" timestamp="1593994422547">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="403" key="GridCell.Tab.0.left/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593994422547" />
+    <state width="1875" height="403" key="GridCell.Tab.0.right" timestamp="1593994422547">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="403" key="GridCell.Tab.0.right/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593994422547" />
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom" timestamp="1593909983560">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593909983560" />
+    <state width="1875" height="364" key="GridCell.Tab.1.center" timestamp="1593909983560">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.center/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593909983560" />
+    <state width="1875" height="364" key="GridCell.Tab.1.left" timestamp="1593909983560">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.left/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593909983560" />
+    <state width="1875" height="364" key="GridCell.Tab.1.right" timestamp="1593909983560">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1875" height="364" key="GridCell.Tab.1.right/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593909983560" />
+    <state x="440" y="-966" key="SettingsEditor" timestamp="1593850459072">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="440" y="-966" key="SettingsEditor/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593850459072" />
+    <state width="577" height="448" key="SwitcherDM" timestamp="1593936347408">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="577" height="448" key="SwitcherDM/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593936347408" />
+    <state x="859" y="-664" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1593850649690">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="859" y="-664" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593850649690" />
+    <state x="838" y="-653" width="336" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1593850659480">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="838" y="-653" width="336" height="249" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593850659480" />
+    <state x="875" y="-595" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1593850452093">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="875" y="-595" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593850452093" />
+    <state x="432" y="-835" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1593850448130">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="432" y="-835" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593850448130" />
+    <state x="565" y="-930" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593993363502">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="565" y="-930" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593993363502" />
+    <state x="731" y="-746" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593941207769">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="731" y="-746" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593941207769" />
+    <state x="662" y="-808" width="688" height="536" key="find.popup" timestamp="1593954482899">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="662" y="-808" width="688" height="536" key="find.popup/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593954482899" />
+    <state x="334" y="-880" key="new project wizard" timestamp="1593994555148">
+      <screen x="0" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="334" y="-880" key="new project wizard/0.0.1536.864/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1593994555148" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((SqlSessionTemplate)sqlSession).sqlSessionFactory" custom="org.mybatis.spring.SqlSessionTemplate" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
